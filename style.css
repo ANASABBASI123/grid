@@ -15,12 +15,8 @@
 }
 .item{
     color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.b{
     color: rgb(238, 20, 20);
+    text-align: center;
 }
 .item1{
    grid-column: one-c/four-c;
